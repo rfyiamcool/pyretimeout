@@ -30,5 +30,6 @@ def fetch():
 fetch()
 ```
 ## Installation
-echo can be installed using Pypi, `pip install pyretry`
+#####nima! pyretry 已经让人给抢先占用了,只能改名为 pyretimeout
+pyretimeout can be installed using Pypi, `pip install pyretimeout`
 
