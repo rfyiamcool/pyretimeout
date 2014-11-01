@@ -35,6 +35,8 @@ pyretimeout can be installed using Pypi, `pip install pyretimeout`
 
 ## Detail
 ToDo: 现在的all_limit时间有误差，因为signal信号不能秒级别
+
 ToDo: 一些层次的逻辑还可以优化
+
 ToDo: 用多线程的去做尝试,测试通过
 
